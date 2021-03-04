@@ -1,0 +1,7 @@
+D:\WorkTGDD\CountFile\CountFile\bin\Debug\CountFile.exe.config
+D:\WorkTGDD\CountFile\CountFile\bin\Debug\CountFile.exe
+D:\WorkTGDD\CountFile\CountFile\bin\Debug\CountFile.pdb
+D:\WorkTGDD\CountFile\CountFile\obj\Debug\CountFile.csprojAssemblyReference.cache
+D:\WorkTGDD\CountFile\CountFile\obj\Debug\CountFile.csproj.CoreCompileInputs.cache
+D:\WorkTGDD\CountFile\CountFile\obj\Debug\CountFile.exe
+D:\WorkTGDD\CountFile\CountFile\obj\Debug\CountFile.pdb
