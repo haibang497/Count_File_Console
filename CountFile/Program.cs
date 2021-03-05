@@ -62,11 +62,11 @@ namespace CountFile
                     streamWriter.WriteLine(v.FullName);
                 }
                 streamWriter.Close();
-                Console.WriteLine("Success");
+                Console.WriteLine("Save File Success");
             }
             catch
             {
-                Console.WriteLine("WARNING!!!!!!!!!: The path is not correct");
+                Console.WriteLine("WARNING!!!!!!!!! Your path is not correct");
             }
             Console.ReadKey();
         }
